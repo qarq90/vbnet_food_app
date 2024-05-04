@@ -40,17 +40,6 @@ FoodHub is a Windows application built using VB.NET that provides a platform for
 4. Select your desired items from the available categories.
 5. Place your order and proceed with the checkout process.
 
-## Contributing
-
-We welcome contributions from the community to improve the FoodHub app. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/improvement`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/improvement`).
-6. Create a new Pull Request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
