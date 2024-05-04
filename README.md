@@ -11,7 +11,6 @@ FoodHub is a Windows application built using VB.NET that provides a platform for
 <br>
 
 ![image](https://github.com/qarq90/vbnet_food_app/assets/124421417/0403f2c9-1c76-4e38-960b-5428a3e4111b)
-
 <br>
 
 ![image](https://github.com/qarq90/vbnet_food_app/assets/124421417/fc1fbf73-f637-42ec-85e9-35d5e2e6f83f)
