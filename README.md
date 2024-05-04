@@ -1,9 +1,58 @@
-# FoodHub
-Online Food Delivery System Using Vb.Net
+# FoodHub App
 
+FoodHub is a Windows application built using VB.NET that provides a platform for users to explore and order a variety of food items, including main courses, drinks, and desserts. The app includes user authentication and allows users to place orders for their selected items.
 
-The Online Food Delivery System, built using VB.Net in Visual Studio, is a comprehensive web application that enables users to order food from a wide range of restaurants conveniently. This system provides a user-friendly interface for customers to browse restaurant menus, select items, customize orders, and make payments securely.
+## Features
 
-Created in Visual Studio 2012
+- **User Authentication:** Users can sign up and log in securely to access the app's features.
+- **Food Categories:** The app offers three main categories: main courses, drinks, and desserts, enabling users to browse through different types of food items.
+- **Order Placement:** Users can select items from the available categories and place orders for their chosen items.
 
-To connect a DataBase I have used MS Access and saved the databse as a .mdb file (2002-2003 version)
+<br>
+
+![image](https://github.com/qarq90/vbnet_food_app/assets/124421417/0403f2c9-1c76-4e38-960b-5428a3e4111b)
+
+<br>
+
+![image](https://github.com/qarq90/vbnet_food_app/assets/124421417/fc1fbf73-f637-42ec-85e9-35d5e2e6f83f)
+<br>
+
+![image](https://github.com/qarq90/vbnet_food_app/assets/124421417/85505206-fbd6-426b-bb48-fe8e5b1eb79b)
+<br>
+
+## Technologies Used
+
+- VB.NET
+- Windows Forms
+- MS Access
+
+## Installation
+
+1. Download and extract the zip file into a directory.
+2. Open the directory in VS 2012
+3. Created in Visual Studio 2012
+- To connect to a DataBase I have used MS Access and saved the databse as a .mdb file (2002-2003 version)
+
+## Usage
+
+1. Launch the FoodHub app on your Windows device.
+2. Sign up or log in to your account.
+3. Explore the different categories to discover food items.
+4. Select your desired items from the available categories.
+5. Place your order and proceed with the checkout process.
+
+## Contributing
+
+We welcome contributions from the community to improve the FoodHub app. If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/improvement`).
+6. Create a new Pull Request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
